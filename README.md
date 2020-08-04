@@ -1,6 +1,6 @@
 ### ban_xz
 
-##### 基于mongoDB中的 gridFS的文件上传 下载，展示的Demo
+##### 基于mongoDB中的 gridFS的文件上传 下载 展示的例子
 
 ##### 下载项目 配置好mongoDB数据库 
 
